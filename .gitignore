@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# Ignore objects and archives
+.idea/
+
+.target/
+
+.out/
+
+# File-based project format
+*.iml
